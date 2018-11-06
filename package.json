@@ -1,0 +1,22 @@
+{
+  "name": "mypersonalwebsite",
+  "version": "1.0.0",
+  "description": "A. Carrasquillo's Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrasqa1/MyPersonalWebsite.git"
+  },
+  "author": "Ariana Carrasquillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrasqa1/MyPersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/carrasqa1/MyPersonalWebsite#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
