@@ -4,7 +4,7 @@ server = express();
 
 var port = 80;
 
-server.use(express.static(path.join(_dirname,'/')));
+server.use(express.static(path.join(__dirname,'/')));
 
 server.listen(port);
 
