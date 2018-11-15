@@ -1,8 +1,13 @@
 FROM node:8.7
 
-ADD/ /app
+ADD /  /app
 
-WORKDIR app
+
+
+WORKDIR  app
+
 RUN npm install
+
 CMD node app.js
+
 EXPOSE 80
